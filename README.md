@@ -1,1 +1,1 @@
-# frontend-exercises
+# product-preview-card-component-main
